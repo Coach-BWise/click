@@ -3,7 +3,7 @@
 ## Overview
 
 This App is a Memory Game that is intended to test the players ability to recall the cards they have selected.
-Visit the deployed version [here](https://coach-bwise.github.io/click/.).
+Visit the deployed version [here](https://coach-bwise.github.io/click/).
 ## Objective
 
 The object of the game is to select all 12 cards only once in the round. After each selection, the cards will be suffled, so the user will need to remember which cards they have already chosen.
