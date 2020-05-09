@@ -1,0 +1,11 @@
+.anime {
+  width: 100%;
+  height: 15vw;
+  object-fit: fill;
+}
+
+@media screen and (max-width: 553px) {
+  .names {
+    font-size: x-small;
+  }
+}

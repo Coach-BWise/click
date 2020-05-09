@@ -1,0 +1,14 @@
+[
+  { "id": 0, "name": "Naruto", "image": "img/Naruto.jpg" },
+  { "id": 1, "name": "Gaara", "image": "img/Gaara.jpg" },
+  { "id": 2, "name": "Goku", "image": "img/Goku.png" },
+  { "id": 3, "name": "Gohan", "image": "img/Gohan.png" },
+  { "id": 4, "name": "Ichigo", "image": "img/Ichigo.jpg" },
+  { "id": 5, "name": "Killua", "image": "img/Killua.png" },
+  { "id": 6, "name": "Kirito", "image": "img/Kirito.png" },
+  { "id": 7, "name": "Levi", "image": "img/Levi.jpg" },
+  { "id": 8, "name": "Luffy", "image": "img/Luffy.png" },
+  { "id": 9, "name": "Midoriya", "image": "img/Midoriya.png" },
+  { "id": 10, "name": "Sanji", "image": "img/Sanji.png" },
+  { "id": 11, "name": "Yugi", "image": "img/Yugi.png" }
+]
