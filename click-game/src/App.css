@@ -1,9 +1,3 @@
-body {
-  background-image: url("/img/Background.jpg");
-  background-size: fill;
-  background-position: center;
-}
-
 .card-body {
   background-color: black;
   color: azure;
