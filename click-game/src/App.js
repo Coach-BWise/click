@@ -90,7 +90,7 @@ class App extends Component {
                 id={data.id}
                 key={data.id}
                 name={data.name}
-                image={data.image}
+                image={process.env.PUBLIC_URL + data.image}
               />
             </Col>
           ))}
