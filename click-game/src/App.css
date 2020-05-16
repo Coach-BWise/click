@@ -1,8 +1,4 @@
-body {
-  background-image: url("%PUBLIC_URL%/img/Background.jpg");
-  background-size: fill;
-  background-position: center;
-}
+
 .card-body {
   background-color: black;
   color: azure;
